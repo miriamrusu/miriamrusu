@@ -29,23 +29,23 @@ Work Samples
 
 ✏️ Copy Editing
 
-ProjectDescriptionSample TitleBrief one-line description of the piece and your contribution
+ProjectDescriptionHealth Hub Fall 2022Accessible copy editing for a university health publication
 
 📋 Instructional Writing
 
-ProjectDescriptionSample TitleBrief one-line description of the piece and your contribution
+ProjectDescriptionHow-to: Remote Access to Software GuideStep-by-step guide for remotely accessing organizational software
 
 📰 Feature Writing
 
-ProjectDescriptionSample TitleBrief one-line description of the piece and your contribution
+ProjectDescriptionCommunity Spotlight: May Nemat AllahCommunity profile feature for a university publicationCommunity Spotlight: Preet MomiCommunity profile feature for a university publicationData-Sharing Within Social Media: A Call to ActionOpinion piece on data privacy and social media responsibilityFaculty Spotlight: Elizabeth DemersFaculty profile feature for a university publicationTechnological MasksFeature article exploring identity and technology
 
 🗂️ Process Documentation
 
-ProjectDescriptionSample TitleBrief one-line description of the piece and your contribution
+ProjectDescriptionSOP: ACO Newsletter Creation ProcessStandard operating procedure for a departmental newsletter workflow
 
 🎨 Design & Visual Communication
 
-ProjectDescriptionSample TitleBrief one-line description of the piece and your contribution
+ProjectDescriptionConvocation Social Media CampaignSocial media campaign visuals for a university convocation eventUW Arts Department Digital DesignDigital design assets for the University of Waterloo Arts departmentUW Health Department Digital DesignDigital design assets for the University of Waterloo Health department
 
 
 Thanks for stopping by. If my work looks like a good fit for what you're building, I'd love to hear from you.
