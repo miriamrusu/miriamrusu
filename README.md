@@ -7,8 +7,9 @@ I've worked embedded within teams at organizations like BlackBerry and Edisoft, 
 📬 rusu.miriam88@gmail.com
 
 
-Skills & Tools
 
+**Skills & Tools
+**
 Authoring & Docs
 Confluence, SharePoint, Markdown, Microsoft Word, Google Docs
 
@@ -25,8 +26,8 @@ Standards & Accessibility
 WCAG, Microsoft Style Guide
 
 
-Work Samples
-
+**Work Samples
+**
 ✏️ Copy Editing
 
 ProjectDescriptionHealth Hub Fall 2022Accessible copy editing for a university health publication
